@@ -2,8 +2,8 @@
     "id": "com.mattermost.inject-custom-css",
     "name": "Inject Custom CSS",
     "description": "This plugin injects custom CSS into the Mattermost web app.",
-    "homepage_url": "https://github.com/mattermost/mattermost-plugin-starter-template",
-    "support_url": "https://github.com/mattermost/mattermost-plugin-starter-template/issues",
+    "homepage_url": "https://github.com/kondo97/mattermost-inject-custom-css",
+    "support_url": "https://github.com/kondo97/mattermost-inject-custom-css/issues",
     "icon_path": "assets/starter-template-icon.svg",
     "min_server_version": "6.2.1",
     "webapp": {
