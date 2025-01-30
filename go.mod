@@ -1,9 +1,10 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/kondo97/mattermost-inject-custom-css
 
 go 1.21
 
 require (
 	github.com/golang/mock v1.6.0
+	github.com/mattermost/mattermost-plugin-starter-template v0.0.0-20250107175106-f8f8f7313c19
 	github.com/mattermost/mattermost/server/public v0.1.4
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.4
@@ -43,7 +44,6 @@ require (
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rogpeppe/go-internal v1.11.0 // indirect
 	github.com/tinylib/msgp v1.1.9 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
